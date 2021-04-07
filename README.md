@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdennourboulmis
 - 👀 I’m interested in mobile development 
-- 🌱 I’m currently learning tge C language 
+- 🌱 I’m currently learning the C programming language 
 - 📫 How to reach me Boulmis.abdennour@gmail.com 
 
 <!---
